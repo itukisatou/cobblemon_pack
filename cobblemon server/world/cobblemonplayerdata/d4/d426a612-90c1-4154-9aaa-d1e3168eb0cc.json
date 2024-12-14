@@ -39,6 +39,18 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1734192368474,
             "caughtTimestamp": 1734192368474
+          },
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734198113041,
+            "caughtTimestamp": 1734198113041
+          },
+          "black": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734198166980,
+            "caughtTimestamp": 1734198166980
           }
         },
         "mewtwo": {
@@ -69,6 +81,42 @@
             "discoveredTimestamp": 1734196570815,
             "caughtTimestamp": 1734196570815
           }
+        },
+        "lapras": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734197883319
+          }
+        },
+        "ferrothorn": {
+          "normal": {
+            "isShiny": true,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734198016460
+          }
+        },
+        "zekrom": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734198143365,
+            "caughtTimestamp": 1734198143365
+          }
+        },
+        "metagross": {
+          "normal": {
+            "isShiny": true,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734198497563
+          }
+        },
+        "avalugg": {
+          "normal": {
+            "isShiny": true,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734198533168
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -79,21 +127,26 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 1,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
-    "totalPvNBattleVictoryCount": 1,
-    "totalShinyCaptureCount": 1,
+    "totalBattleVictoryCount": 8,
+    "totalPvPBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 2,
+    "totalPvNBattleVictoryCount": 2,
+    "totalShinyCaptureCount": 3,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "dark": 1,
       "flying": 1,
-      "water": 1
+      "water": 1,
+      "dragon": 2,
+      "ice": 1,
+      "electric": 1
     },
-    "totalDefeatedCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:cradily": 1
+    },
     "aspectsCollected": {}
   }
 }

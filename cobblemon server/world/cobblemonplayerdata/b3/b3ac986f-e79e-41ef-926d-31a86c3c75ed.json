@@ -336,6 +336,22 @@
             "discoveredTimestamp": 1734196685407,
             "caughtTimestamp": 1734196685407
           }
+        },
+        "rayquaza": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734198688262,
+            "caughtTimestamp": 1734198688262
+          }
+        },
+        "gyarados": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734199197013,
+            "caughtTimestamp": 1734199197013
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -349,31 +365,31 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 45,
+    "totalCaptureCount": 47,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 4,
-    "totalPvPBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 5,
+    "totalPvPBattleVictoryCount": 1,
     "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 2,
-    "totalShinyCaptureCount": 28,
+    "totalShinyCaptureCount": 30,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "electric": 1,
       "normal": 6,
       "fighting": 6,
       "fairy": 2,
-      "dragon": 13,
+      "dragon": 14,
       "ice": 2,
       "ghost": 10,
       "poison": 2,
       "ground": 6,
       "steel": 5,
       "fire": 2,
-      "flying": 3,
+      "flying": 5,
       "dark": 5,
       "grass": 2,
-      "water": 4,
+      "water": 5,
       "psychic": 2
     },
     "totalDefeatedCounts": {

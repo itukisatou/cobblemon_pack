@@ -5,15 +5,10 @@
     },
     "done": true
   },
-  "pokemonfishing:on_join": {
-    "criteria": {
-      "requirement": "2024-12-15 02:07:45 +0900"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-15 02:04:51 +0900",
+      "minecraft:sunflower_plains": "2024-12-15 02:57:52 +0900",
       "minecraft:beach": "2024-12-15 00:59:06 +0900",
       "minecraft:river": "2024-12-15 00:50:29 +0900",
       "minecraft:forest": "2024-12-15 01:08:08 +0900",
@@ -373,15 +368,21 @@
     },
     "done": true
   },
-  "cobblemon:full_party": {
+  "pokemonfishing:on_join": {
     "criteria": {
-      "full_party": "2024-12-15 02:11:23 +0900"
+      "requirement": "2024-12-15 02:07:45 +0900"
     },
     "done": true
   },
-  "cobblemon:recipes/misc/relic_coin_pouch": {
+  "cobblemon:first_shiny_catch": {
     "criteria": {
-      "has_coin": "2024-12-15 02:15:49 +0900"
+      "catch": "2024-12-15 02:09:10 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2024-12-15 02:11:23 +0900"
     },
     "done": true
   },
@@ -397,11 +398,77 @@
     },
     "done": true
   },
-  "cobblemon:first_shiny_catch": {
+  "cobblemon:recipes/misc/relic_coin_pouch": {
     "criteria": {
-      "catch": "2024-12-15 02:09:10 +0900"
+      "has_coin": "2024-12-15 02:15:49 +0900"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-15 02:58:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-15 03:00:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-15 02:48:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-15 02:59:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-15 02:42:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-15 03:00:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-15 02:58:59 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/pp_max": {
+    "criteria": {
+      "has_pp_up": "2024-12-15 02:43:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-15 02:58:59 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/shell_bell": {
+    "criteria": {
+      "has_shell": "2024-12-15 02:42:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "salmon": "2024-12-15 02:59:05 +0900"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "pokemonfishing:on_join": {
-    "criteria": {
-      "requirement": "2024-12-15 02:07:45 +0900"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-12-15 01:10:54 +0900",
@@ -559,9 +553,69 @@
     },
     "done": false
   },
+  "pokemonfishing:on_join": {
+    "criteria": {
+      "requirement": "2024-12-15 02:07:45 +0900"
+    },
+    "done": true
+  },
   "cobblemon:first_evolution": {
     "criteria": {
       "evolve": "2024-12-15 02:14:25 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2024-12-15 02:40:33 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2024-12-15 02:43:15 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_sitrus_berry": "2024-12-15 02:43:15 +0900"
+    },
+    "done": false
+  },
+  "cobblemon:obtain_mutated_berry": {
+    "criteria": {
+      "check_inv": "2024-12-15 02:43:15 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2024-12-15 02:43:15 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2024-12-15 02:49:49 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/heal_powder": {
+    "criteria": {
+      "has_herb": "2024-12-15 02:49:49 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/revive": {
+    "criteria": {
+      "has_herb": "2024-12-15 02:49:49 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:use_revive": {
+    "criteria": {
+      "use_revival_herb": "2024-12-15 02:50:12 +0900"
     },
     "done": true
   },

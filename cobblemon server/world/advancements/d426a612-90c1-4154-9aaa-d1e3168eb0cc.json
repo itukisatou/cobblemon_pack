@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "pokemonfishing:on_join": {
-    "criteria": {
-      "requirement": "2024-12-15 02:07:45 +0900"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-15 01:07:42 +0900",
@@ -20,6 +14,7 @@
       "minecraft:dark_forest": "2024-12-15 01:08:52 +0900",
       "minecraft:river": "2024-12-15 00:50:27 +0900",
       "minecraft:swamp": "2024-12-15 01:08:56 +0900",
+      "minecraft:cold_ocean": "2024-12-15 03:15:29 +0900",
       "minecraft:forest": "2024-12-15 01:08:36 +0900",
       "minecraft:ocean": "2024-12-15 01:09:41 +0900",
       "minecraft:windswept_savanna": "2024-12-15 01:08:12 +0900",
@@ -210,15 +205,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "pokemonfishing:on_join": {
     "criteria": {
-      "has_nautilus_core": "2024-12-15 02:13:27 +0900"
+      "requirement": "2024-12-15 02:07:45 +0900"
     },
     "done": true
   },
   "cobblemon:first_shiny_catch": {
     "criteria": {
       "catch": "2024-12-15 02:13:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-15 02:13:27 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2024-12-15 02:39:05 +0900"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_misty": {
+    "criteria": {
+      "first_defeat": "2024-12-15 03:01:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-15 03:05:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-15 03:08:52 +0900"
     },
     "done": true
   },

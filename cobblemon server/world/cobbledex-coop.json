@@ -136,7 +136,7 @@
     },
     "kyurem": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1734191646891,
         "caughtTimestamp": 1734191646891
@@ -146,6 +146,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1734192368476,
         "caughtTimestamp": 1734192368476
+      },
+      "black": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734198166981,
+        "caughtTimestamp": 1734198166981
       }
     },
     "yungoos": {
@@ -214,7 +220,7 @@
     },
     "zekrom": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1734191988341,
         "caughtTimestamp": 1734191988341
@@ -234,6 +240,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1734192507983,
         "caughtTimestamp": 1734192507983
+      },
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734198688262,
+        "caughtTimestamp": 1734198688262
       }
     },
     "zygarde": {
@@ -489,6 +501,14 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1734196674099,
         "caughtTimestamp": 1734196674099
+      }
+    },
+    "gyarados": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734199197014,
+        "caughtTimestamp": 1734199197014
       }
     }
   }

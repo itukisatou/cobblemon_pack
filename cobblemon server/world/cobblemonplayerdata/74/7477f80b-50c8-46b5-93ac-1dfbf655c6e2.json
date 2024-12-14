@@ -27,7 +27,7 @@
         },
         "zekrom": {
           "normal": {
-            "isShiny": false,
+            "isShiny": true,
             "status": "CAUGHT",
             "discoveredTimestamp": 1734191988341,
             "caughtTimestamp": 1734191988341
@@ -68,9 +68,9 @@
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 6,
-    "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 2,
+    "totalBattleVictoryCount": 9,
+    "totalPvPBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 4,
     "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 1,
@@ -86,7 +86,9 @@
     },
     "totalDefeatedCounts": {
       "cobblemon:lapras": 1,
-      "cobblemon:armarouge": 1
+      "cobblemon:armarouge": 1,
+      "cobblemon:samurott": 1,
+      "cobblemon:seaking": 1
     },
     "aspectsCollected": {}
   }
