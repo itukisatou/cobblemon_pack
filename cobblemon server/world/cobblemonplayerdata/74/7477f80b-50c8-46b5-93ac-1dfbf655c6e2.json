@@ -1,0 +1,73 @@
+{
+  "uuid": "7477f80b-50c8-46b5-93ac-1dfbf655c6e2",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "4b82f53b-1558-491a-9742-abbc2112d934",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "snivy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734190884856,
+            "caughtTimestamp": 1734190884856
+          }
+        },
+        "lapras": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191626388,
+            "caughtTimestamp": 1734191626388
+          }
+        },
+        "zekrom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191988341,
+            "caughtTimestamp": 1734191988341
+          }
+        },
+        "mewtwo": {
+          "normal": {
+            "isShiny": true,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734193439389
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 2,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 6,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 2,
+    "totalPvNBattleVictoryCount": 3,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "water": 1,
+      "ice": 1,
+      "dragon": 1,
+      "electric": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:lapras": 1,
+      "cobblemon:armarouge": 1
+    },
+    "aspectsCollected": {}
+  }
+}

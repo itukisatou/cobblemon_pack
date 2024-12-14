@@ -1,0 +1,76 @@
+{
+  "uuid": "d426a612-90c1-4154-9aaa-d1e3168eb0cc",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "448308a0-8982-43a4-811c-5b9b2290dcf5",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "snivy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734190371968,
+            "caughtTimestamp": 1734190371968
+          }
+        },
+        "furret": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191969231,
+            "caughtTimestamp": 1734191969231
+          }
+        },
+        "yveltal": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734192103597,
+            "caughtTimestamp": 1734192103597
+          }
+        },
+        "kyurem": {
+          "white": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734192368474,
+            "caughtTimestamp": 1734192368474
+          }
+        },
+        "mewtwo": {
+          "normal": {
+            "isShiny": true,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734193417134
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 1,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 0,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 0,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 2,
+    "totalTypeCaptureCounts": {
+      "dark": 1,
+      "flying": 1
+    },
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {}
+  }
+}

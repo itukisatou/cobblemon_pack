@@ -1,0 +1,151 @@
+{
+  "uuid": "b3ac986f-e79e-41ef-926d-31a86c3c75ed",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "7733fee4-a3a9-4125-8087-57f0099d6c9e",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "mudkip": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734190662380,
+            "caughtTimestamp": 1734190662380
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191262586,
+            "caughtTimestamp": 1734191262586
+          }
+        },
+        "tandemaus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191304492,
+            "caughtTimestamp": 1734191304492
+          }
+        },
+        "bouffalant": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191342490,
+            "caughtTimestamp": 1734191342490
+          }
+        },
+        "zamazenta": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191518691,
+            "caughtTimestamp": 1734191518691
+          }
+        },
+        "zacian": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191551736,
+            "caughtTimestamp": 1734191551736
+          }
+        },
+        "kyurem": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191646891,
+            "caughtTimestamp": 1734191646891
+          }
+        },
+        "annihilape": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191736138,
+            "caughtTimestamp": 1734191736138
+          }
+        },
+        "sneasler": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191881892,
+            "caughtTimestamp": 1734191881892
+          }
+        },
+        "arceus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191956694,
+            "caughtTimestamp": 1734191956694
+          }
+        },
+        "zygarde": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734192581037,
+            "caughtTimestamp": 1734192581037
+          }
+        },
+        "giratina": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734192653327,
+            "caughtTimestamp": 1734192653327
+          }
+        },
+        "garchomp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734192891595,
+            "caughtTimestamp": 1734192891595
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 13,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 4,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 2,
+    "totalPvNBattleVictoryCount": 2,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "electric": 1,
+      "normal": 3,
+      "fighting": 4,
+      "fairy": 1,
+      "dragon": 4,
+      "ice": 1,
+      "ghost": 2,
+      "poison": 1,
+      "ground": 2
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:meowth": 1,
+      "cobblemon:crabominable": 1
+    },
+    "aspectsCollected": {}
+  }
+}

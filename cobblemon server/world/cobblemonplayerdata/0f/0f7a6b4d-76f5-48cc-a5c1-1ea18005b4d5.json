@@ -1,0 +1,106 @@
+{
+  "uuid": "0f7a6b4d-76f5-48cc-a5c1-1ea18005b4d5",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "4c7eecfd-de0d-435b-a1fa-1e79de1b6f2b",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "oshawott": {
+          "hisuibias": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734190430088,
+            "caughtTimestamp": 1734190430088
+          }
+        },
+        "growlithe": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191237202,
+            "caughtTimestamp": 1734191237202
+          }
+        },
+        "cottonee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191346287,
+            "caughtTimestamp": 1734191346287
+          }
+        },
+        "yamper": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191381936,
+            "caughtTimestamp": 1734191381936
+          }
+        },
+        "furret": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191496244,
+            "caughtTimestamp": 1734191496244
+          }
+        },
+        "eevee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191951945,
+            "caughtTimestamp": 1734191951945
+          }
+        },
+        "mew": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734191969230,
+            "caughtTimestamp": 1734191969230
+          }
+        },
+        "rayquaza": {
+          "megarayquaza": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734192507982,
+            "caughtTimestamp": 1734192507982
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 5,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 11,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 4,
+    "totalPvNBattleVictoryCount": 7,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "fire": 1,
+      "grass": 1,
+      "fairy": 1,
+      "electric": 1,
+      "normal": 2
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:timburr": 1
+    },
+    "aspectsCollected": {}
+  }
+}
