@@ -7,16 +7,18 @@
   },
   "pokemonfishing:on_join": {
     "criteria": {
-      "requirement": "2024-12-15 00:38:17 +0900"
+      "requirement": "2024-12-15 02:07:45 +0900"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-15 02:04:51 +0900",
       "minecraft:beach": "2024-12-15 00:59:06 +0900",
       "minecraft:river": "2024-12-15 00:50:29 +0900",
       "minecraft:forest": "2024-12-15 01:08:08 +0900",
       "minecraft:ocean": "2024-12-15 01:10:37 +0900",
+      "minecraft:meadow": "2024-12-15 01:37:11 +0900",
       "minecraft:plains": "2024-12-15 00:38:17 +0900"
     },
     "done": false
@@ -368,6 +370,36 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 01:20:23 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2024-12-15 02:11:23 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2024-12-15 02:15:49 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin_sack": {
+    "criteria": {
+      "has_pouch": "2024-12-15 02:15:17 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin": {
+    "criteria": {
+      "has_pouch": "2024-12-15 02:15:17 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2024-12-15 02:09:10 +0900"
     },
     "done": true
   },

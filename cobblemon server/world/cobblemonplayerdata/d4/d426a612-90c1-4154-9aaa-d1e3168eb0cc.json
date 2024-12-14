@@ -47,6 +47,28 @@
             "status": "SEEN",
             "discoveredTimestamp": 1734193417134
           }
+        },
+        "kyogre": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734196401562,
+            "caughtTimestamp": 1734196401562
+          },
+          "primal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734196426409,
+            "caughtTimestamp": 1734196426409
+          }
+        },
+        "rayquaza": {
+          "megarayquaza": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734196570815,
+            "caughtTimestamp": 1734196570815
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -57,18 +79,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 2,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 1,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 0,
-    "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
+    "totalPvNBattleVictoryCount": 1,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "dark": 1,
-      "flying": 1
+      "flying": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {},
     "aspectsCollected": {}

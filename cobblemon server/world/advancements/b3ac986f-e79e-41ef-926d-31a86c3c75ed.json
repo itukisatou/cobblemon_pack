@@ -7,7 +7,7 @@
   },
   "pokemonfishing:on_join": {
     "criteria": {
-      "requirement": "2024-12-15 00:30:53 +0900"
+      "requirement": "2024-12-15 02:07:45 +0900"
     },
     "done": true
   },
@@ -20,6 +20,7 @@
       "minecraft:forest": "2024-12-15 01:11:44 +0900",
       "minecraft:ocean": "2024-12-15 01:09:05 +0900",
       "minecraft:old_growth_birch_forest": "2024-12-15 01:12:12 +0900",
+      "minecraft:meadow": "2024-12-15 01:55:37 +0900",
       "minecraft:plains": "2024-12-15 00:30:54 +0900"
     },
     "done": false
@@ -332,6 +333,13 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "dusk_ball": "2024-12-15 01:48:39 +0900",
+      "moon_ball": "2024-12-15 01:50:36 +0900",
+      "ancient_poke_ball": "2024-12-15 02:00:57 +0900",
+      "level_ball": "2024-12-15 01:56:16 +0900",
+      "safari_ball": "2024-12-15 01:58:44 +0900",
+      "heavy_ball": "2024-12-15 01:58:42 +0900",
+      "dream_ball": "2024-12-15 02:02:50 +0900",
       "beast_ball": "2024-12-15 01:13:14 +0900",
       "poke_ball": "2024-12-15 00:44:35 +0900",
       "master_ball": "2024-12-15 00:46:56 +0900"
@@ -528,6 +536,32 @@
   "rctmod:trainers/defeat_any": {
     "criteria": {
       "first_defeat": "2024-12-15 01:24:12 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2024-12-15 01:50:28 +0900"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "level_ball": "2024-12-15 01:56:16 +0900",
+      "moon_ball": "2024-12-15 01:50:36 +0900",
+      "heavy_ball": "2024-12-15 01:58:42 +0900"
+    },
+    "done": false
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_poke_ball": "2024-12-15 02:00:57 +0900"
+    },
+    "done": false
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2024-12-15 02:14:25 +0900"
     },
     "done": true
   },

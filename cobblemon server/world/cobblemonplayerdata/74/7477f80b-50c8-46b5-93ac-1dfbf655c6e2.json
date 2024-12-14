@@ -19,7 +19,7 @@
         },
         "lapras": {
           "normal": {
-            "isShiny": false,
+            "isShiny": true,
             "status": "CAUGHT",
             "discoveredTimestamp": 1734191626388,
             "caughtTimestamp": 1734191626388
@@ -39,6 +39,22 @@
             "status": "SEEN",
             "discoveredTimestamp": 1734193439389
           }
+        },
+        "aggron": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734196150710,
+            "caughtTimestamp": 1734196150710
+          }
+        },
+        "pidgeot": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734196283951,
+            "caughtTimestamp": 1734196283951
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -49,20 +65,24 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
     "totalBattleVictoryCount": 6,
     "totalPvPBattleVictoryCount": 1,
     "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 3,
-    "totalShinyCaptureCount": 0,
+    "totalShinyCaptureCount": 2,
     "totalTradedCount": 1,
     "totalTypeCaptureCounts": {
-      "water": 1,
-      "ice": 1,
+      "water": 2,
+      "ice": 2,
       "dragon": 1,
-      "electric": 1
+      "electric": 1,
+      "steel": 1,
+      "rock": 1,
+      "normal": 1,
+      "flying": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:lapras": 1,
