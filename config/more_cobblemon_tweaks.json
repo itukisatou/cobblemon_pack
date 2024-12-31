@@ -1,0 +1,19 @@
+{
+  "enhanced_egg_lore": true,
+  "shiny_egg_indicator": true,
+  "enhanced_berry_lore": true,
+  "enhanced_consumable_lore": true,
+  "enhanced_held_item_lore": true,
+  "wt_compact_lore": true,
+  "pc_iv_display": true,
+  "open_box_history": true,
+  "pc_search": true,
+  "custom_pc_wallpapers": true,
+  "custom_pc_box_names": true,
+  "pc_wallpapers": {
+    "singleplayer": {
+      "0": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/dark_blue_wallpaper.png"
+    }
+  },
+  "pc_box_names": {}
+}

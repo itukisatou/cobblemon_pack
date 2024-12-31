@@ -1,0 +1,10 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_inventory_settings_button": {
+            "value": false
+        }
+    }
+}

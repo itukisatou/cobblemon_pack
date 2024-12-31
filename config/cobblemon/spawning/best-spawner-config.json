@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "replaceWithNewVersion": true,
+  "contextWeights": {
+    "grounded": 1.0,
+    "submerged": 0.95,
+    "surface": 0.05
+  },
+  "buckets": [
+    {
+      "name": "common",
+      "weight": 50
+    },
+    {
+      "name": "uncommon",
+      "weight": 30
+    },
+    {
+      "name": "rare",
+      "weight": 15
+    },
+    {
+      "name": "ultra-rare",
+      "weight": 5
+    }
+  ]
+}
